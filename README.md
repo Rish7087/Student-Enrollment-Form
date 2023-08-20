@@ -2,7 +2,7 @@
 
 ## Description
 
-Student Enrollment Form Using JsonPowerDB is a web form designed to facilitate student enrollment by storing and updating student data remotely. The project is built using HTML, Bootstrap, JavaScript, jQuery, and the JsonPowerDB API.
+Student Enrollment Form Using JsonPowerDB is a web form designed to facilitate student enrollment by storing and updating student data remotely. The project is built using HTML, Bootstrap, JavaScript, jQuery, and the JsonPowerDB API updated.
 
 ## Benefits of using JsonPowerDB
 
