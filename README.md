@@ -59,8 +59,18 @@ Student Enrollment Form Using JsonPowerDB is a web form designed to facilitate s
 
 ## Screenshots
 
-![Screenshot 1](path/to/screenshot1.png)
-![Screenshot 2](path/to/screenshot2.png)
+![Screenshot 1](res/Images/empty.png)
+- Empty Form
+![Screenshot 2](res/Images/test_data.png)
+- Filled Form
+![Screenshot 3](res/Images/test_result.png)
+- Result in Database
+![Screenshot 4](res/Images/update_data.png)
+- Updated Data
+![Screenshot 5](res/Images/update_result.png)
+- Updated Result
+
+
 
 
 ## Scope of Functionalities
